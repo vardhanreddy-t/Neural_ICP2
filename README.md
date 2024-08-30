@@ -1,6 +1,8 @@
 # Neural_ICP2
 NAME:PRIYA VARDHAN REDDY                 ID:700764913
 
+VIDEO:https://drive.google.com/file/d/1RcpG_0pNaud00IOkFEn-Yoq0S7VGLZZz/view?usp=drive_link
+
 1) Create a class Employee and then do the following
 • Create a data member to count the number of Employees
 • Create a constructor to initialize name, family, salary, department
